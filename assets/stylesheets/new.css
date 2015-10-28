@@ -52,6 +52,15 @@ body {
 	background-color: #000000;
 	color: #CEB888;
 }
+ul{
+	list-style: square;
+	list-style-position: inside;
+	margin-left: 4%;
+}
+
+li{
+	padding-top: 2%;
+}
 
 .main{
 	background-color: #FDF6E6;
@@ -65,7 +74,8 @@ h2{
 	font-size: 120%; 
 	color: #632937;
 	font-weight: bold; 
-	padding-bottom: 0.5%; 
+	padding-bottom: 0.5%;
+	padding-top: 1%; 
 }
 
 img {
