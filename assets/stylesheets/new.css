@@ -131,7 +131,8 @@ a:hover {
 }
 
 button{
-	font-size: 80%
+	font-size: 80%; 
+	background: #4E69F5;
 }
 
 
