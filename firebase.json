@@ -1,5 +1,5 @@
 {
-  "firebase": "TOTooleSite",
+  "firebase": "personalsite",
   "public": ".",
   "ignore": [
     "firebase.json",
